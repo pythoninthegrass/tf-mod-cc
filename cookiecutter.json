@@ -5,7 +5,8 @@
     "MIT license",
     "BSD license",
     "Apache Software License 2.0",
-    "GNU General Public License v3"
+    "GNU General Public License v3",
+    "Unlicense"
   ],
   "author": "",
   "minimum_terraform_version": "1.5",

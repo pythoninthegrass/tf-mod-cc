@@ -1,3 +1,5 @@
+#!/usr/bin/env make -f
+
 # Get the set versions of Terraform and OpenTofu.
 TERRAFORM_VERSION:=$(shell cat .terraform-version)
 TOFU_VERSION:=$(shell cat .terraform-version)
